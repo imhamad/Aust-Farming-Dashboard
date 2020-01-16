@@ -1,0 +1,14 @@
+2020-01-13T12:54:21+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_limit() in /Users/hamad/WebServer/jobnelly/wp-content/themes/workscout/inc/shortcodes/pricing_woo_tables.php on line 85
+
+2020-01-13T12:54:52+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_limit() in /Users/hamad/WebServer/jobnelly/wp-content/themes/workscout/inc/shortcodes/pricing_woo_tables.php on line 85
+
+2020-01-13T13:15:13+00:00 CRITICAL Call to a member function delete() on null in /Users/hamad/WebServer/jobnelly/wp-content/plugins/revslider/includes/slider.class.php on line 1888
+
+2020-01-13T14:21:30+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_limit() in /Users/hamad/WebServer/jobnelly/wp-content/themes/workscout/template-jobpackages.php on line 119
+
+2020-01-13T14:21:48+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_limit() in /Users/hamad/WebServer/jobnelly/wp-content/themes/workscout/template-jobpackages.php on line 119
+
+2020-01-13T14:36:59+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_limit() in /Users/hamad/WebServer/jobnelly/wp-content/themes/workscout/template-jobpackages.php on line 119
+
+2020-01-13T14:37:14+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_limit() in /Users/hamad/WebServer/jobnelly/wp-content/themes/workscout/template-jobpackages.php on line 119
+
